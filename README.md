@@ -147,7 +147,7 @@ Finally, I learned that reconnaissance and scanning must always be performed wit
 
 *Screenshots collected as evidence during the activities (stored in the `screenshots/` folder):*
 
-![whois output](screenshots/1_whois.png)
+![whois output](WhatsApp Image 2026-11-09 at 16.36.34.jpeg)
 
 ![whatweb output](screenshots/2_whatweb.png)
 
